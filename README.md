@@ -1,10 +1,9 @@
 ##Addressbook Tutorialll
-= by==================== hello eeeee hello
+= hello
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started
-Running the example from the command hello test
+Running the example from the command
 -------------------hi santhiya!!! how are you
-```
 $ mvn jetty:runheee
 ```
 
